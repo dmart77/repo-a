@@ -1,0 +1,4 @@
+[submodule "libs/repo-b"]
+	path = libs/repo-b
+	url = https://github.com/dmart77/repo-b.git
+	branch = master
